@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1753950141 source:c:\users\mgl 8\desktop\cg projects 25-26 00028\first\main.cpp
+	<GL/glut.h>
+
+1753950929 source:c:\users\mgl 8\desktop\cg projects 25-26 00028\first\second.cpp
+	<GL/glut.h>
+	<iostream>
+	<time.h>
+	<random>
+	<math.h>
+	<stdlib.h>
+

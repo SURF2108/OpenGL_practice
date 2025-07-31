@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1753952719 source:c:\users\mgl 8\desktop\cg projects 25-26 00028\sixth\main.cpp
+	<GL/glut.h>
+	<cmath>
+
